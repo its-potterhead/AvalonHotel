@@ -68,7 +68,7 @@ i{
     color: #FFA500;
 }
 i:hover{
-    transform: scale(1.2);
+    transform: translate(5%,10%);
 }
 #menu ul li:hover{
     transform: translate(5%,10%);
